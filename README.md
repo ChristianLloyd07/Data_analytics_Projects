@@ -53,5 +53,14 @@
  - Channel effectiveness evaluation
  - Level-wise performance comparison
 ## Dashboard Photo
-![alt_Text](Images/Enrollment_Monitoring_Progress.png)
-or visit to my [Dashboard](
+![alt_Text](Images/Enrollment_Monitoring_Progress.png)  
+or visit to my [Dashboard](https://github.com/ChristianLloyd07/Data_analytics_Projects/tree/main)  
+
+## How to Use
+1. Open the Excel file.
+2. Use the filters to select the year, month, or day you want to analyze.
+3. Explore filled-up vs enrolled trends across levels, channels, and time periods.
+4. Use the insights to optimize enrollment strategies and follow-up campaigns.  
+
+## Outcome
+This dashboard provides a clear, actionable view of enrollment performance. By monitoring key metrics, school administrators can improve follow-up effectiveness, optimize marketing channels, and ultimately increase student enrollment rates.
