@@ -3,6 +3,9 @@ HSL-Braille College Inc. | Data Analytics Portfolio Project
 
 ## Project Summary
 This project demonstrates practical Data Analytics, Business Intelligence, and Operations Analysis skills through an end-to-end enrollment performance dashboard built entirely in Microsoft Excel. The dashboard analyzes historical enrollment data (2021–2025) to identify trends, performance gaps, capacity utilization, and retention risks, supporting data-driven decision-making for educational management.
+  
+![alt_text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Enrollment_Performance_Analysis.png?raw=true)  
+or Visit to my [Dashboard](
 
 ## Business Problem
 Educational institutions require accurate enrollment forecasting, retention monitoring, and capacity planning to remain sustainable. This project addresses the following business questions:
