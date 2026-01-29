@@ -19,4 +19,16 @@ This Power BI dashboard provides a comprehensive analysis of pharmacy sales and 
 
 -Seasonal patterns and growth spikes visualized for performance monitoring
 
-![Alt text]()
+![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Overview.png)
+photo 1
+
+# Geographic Insights
+-Revenue vs Profit by Country: Germany, France, Italy, Belgium, Netherlands, Spain, Poland, Austria
+
+-Profit Margin % by Country: Highlights efficiency leaders (e.g., Spain at 15.87%)
+
+-Regional & City-Level Breakdown: Milan, Hamburg, Utrecht, Liège, Munich, Lyon, etc.
+
+![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Overview.png)
+photo 2
+
