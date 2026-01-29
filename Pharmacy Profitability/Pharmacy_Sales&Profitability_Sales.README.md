@@ -41,5 +41,19 @@ photo 2
 
 -Avg. Store Profit Margin: $20,176.18
 
-![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Geography.png)
+![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Store.png)
+photo 3
+
+# Product Analysis
+-Top Categories:
+
+-Prescription: $2.8M revenue, $613.2K profit
+
+-OTC, Wellness, Personal Care, Medical Devices
+
+-Top 10 Products: AntiBioX, GlucoSafe, NeuroMed, DermRx, PainLess, etc.
+
+-Branded vs Generic: Branded revenue is 85% higher than generic
+
+![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Store.png)
 photo 3
