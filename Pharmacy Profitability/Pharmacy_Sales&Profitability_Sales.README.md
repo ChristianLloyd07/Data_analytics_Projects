@@ -29,6 +29,17 @@ photo 1
 
 -Regional & City-Level Breakdown: Milan, Hamburg, Utrecht, Liège, Munich, Lyon, etc.
 
-![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Overview.png)
+![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Geography.png)
 photo 2
 
+# Store Performance
+-Top 10 Stores by Revenue: Munich #095 leads with $162.3K revenue and $45.2K profit
+
+-Underperforming Stores: Vienna #115, Frankfurt #084, Seville #040, etc.
+
+-Avg. Store Revenue: $71,949.81
+
+-Avg. Store Profit Margin: $20,176.18
+
+![Alt text](https://github.com/ChristianLloyd07/Data_analytics_Projects/blob/main/Images/Pharmacy%20Geography.png)
+photo 3
